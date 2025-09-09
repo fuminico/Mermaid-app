@@ -1,0 +1,5 @@
+{
+  "name": "Mermaid Diagram Generator",
+  "description": "An application that generates Mermaid.js diagrams from Japanese natural language input. It provides a cute and warm user interface for real-time previewing and editing of flowcharts, sequence diagrams, and Gantt charts.",
+  "requestFramePermissions": []
+}
